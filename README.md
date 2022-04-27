@@ -23,7 +23,7 @@ Datos de entrada:
 
 Software necesario:
 
-Fiji -> open source image processing package from ImageJ2
+    Fiji: open source image processing package from ImageJ2. Schindelin, J., Arganda-Carreras, I., Frise, E., Kaynig, V., Longair, M., Pietzsch, T., … Cardona, A.  (2012). Fiji: an open-source platform for biological-image analysis. Nature Methods, 9(7), 676–682. doi:10.1038/nmeth.2019
     Dependencias relevantes
 
 Pasos a ejecutar:
