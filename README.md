@@ -9,10 +9,13 @@ https://imagej.net/software/fiji/
 TBD: Elena will upload images when back at her office
 
 # How to run the programme
-Instructions to be written
+1.	Abrir programa
+2.	Abrir imagen (también se puede arrastrar)
+3.	Abrir macro (código), también se puede arrastrar.
+4.	Run macro.
 
 # Your result should look like this
-[Image to be uploaded]
+[una tabla con datos numericos]
 Datos de entrada:
 
     Descripción, cómo están organizados
