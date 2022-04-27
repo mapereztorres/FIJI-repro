@@ -23,7 +23,7 @@ Datos de entrada:
 
 Software necesario:
 
-    Nombre de los programas y versiones
+Fiji -> open source image processing package from ImageJ2
     Dependencias relevantes
 
 Pasos a ejecutar:
