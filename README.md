@@ -18,7 +18,7 @@ TBD: Elena will upload images when back at her office
 [una tabla con datos numericos]
 Datos de entrada:
 
-    Descripción, cómo están organizados
+    Las imagenes estan contenidas wen una carpeta llamada images
     Origen, cómo se descargan
 
 Software necesario:
