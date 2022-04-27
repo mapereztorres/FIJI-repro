@@ -35,3 +35,7 @@ Resultados:
 
     Descripción de los archivos finales
     Descripción de los resultados y conclusiones
+    
+ Tareas:
+
+    Crear contenedor con software FIJI
