@@ -19,7 +19,7 @@ TBD: Elena will upload images when back at her office
 Datos de entrada:
 
     Las imagenes estan contenidas wen una carpeta llamada images
-    Origen, cómo se descargan
+    Derntro de la carpeta esta la Macro
 
 Software necesario:
 
