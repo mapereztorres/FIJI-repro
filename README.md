@@ -18,8 +18,8 @@ TBD: Elena will upload images when back at her office
 [una tabla con datos numericos]
 Datos de entrada:
 
-    Las imagenes estan contenidas wen una carpeta llamada images
-    Derntro de la carpeta esta la Macro
+    Las imagenes estan contenidas en una carpeta llamada images .tif
+    Dentro de la carpeta esta la Macro que hay que usar archivo .ijm
 
 Software necesario:
 
