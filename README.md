@@ -63,5 +63,9 @@ From the image:
 
 To the results: 
 
+[Cells-Extraction](results/results-cells-example01.csv)
+
+
+
 
 
