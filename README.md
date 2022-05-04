@@ -65,7 +65,7 @@ To the results:
 
 [Cells-Extraction](results/results-cells-example01.csv)
 
-With an count overlay:
+With a count overlay as result:
 
 ![JPGExample](image-dataset/cells-example01-8bits-2.jpg)
 
