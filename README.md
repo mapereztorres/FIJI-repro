@@ -49,11 +49,11 @@ Executing this Macro from Command line:
 
 **MacOSX**
 
-```./Fiji.app/Contents/MacOS/ImageJ-macosx  --ij2  --headless --console --run /tmp/macros-cs/cs-01.ijm```
+```./Fiji.app/Contents/MacOS/ImageJ-macosx  --ij2  --headless --console --run macros-cs/cs-01.ijm```
 
 **Linux**
 
-```./ImageJ-macosx  --ij2  --headless --console --run /tmp/macros-cs/cs-01.ijm```
+```./ImageJ-macosx  --ij2  --headless --console --run macros-cs/cs-01.ijm```
 
 # Workflow
 
@@ -65,7 +65,13 @@ To the results:
 
 [Cells-Extraction](results/results-cells-example01.csv)
 
+With an count overlay:
 
+![JPGExample](image-dataset/cells-example01-8bits-2.jpg)
+
+## Workflow with SnakeMake
+
+TBC
 
 
 
