@@ -6,7 +6,7 @@ Used Version: ImageJ 1.53q
 https://imagej.net/software/fiji/
 
 # Data 
-Valid for .tif files for images and .ijm for macros
+Valid for .tiff files for images and .ijm for macros
 
 # Steps to be executed
 1.  Open program via headless (not desktop)
@@ -20,5 +20,42 @@ Valid for .tif files for images and .ijm for macros
   - Analize particles
   - Store the output table
 
-# Results
+## Results
 Generates a table with numerical data for counting the cells of the image treated with a macro
+
+# Single steps: Macro and Commandline execution
+
+Macro Code:
+
+```
+open("/tmp/cells-example01-8bits.tif");
+run("Subtract Background...", "rolling=12");
+setThreshold(72, 255, "raw");
+setOption("BlackBackground", true);
+run("Make Binary");
+run("Fill Holes");
+run("Convert to Mask");
+run("Watershed");
+run("Analyze Particles...", "  show=Nothing display");
+saveAs("Results", "/tmp/results-cells-example01.csv");
+
+```
+
+Executing this Macro from Command line:
+
+**Windows**
+
+```C:/...../ImageJ.exe --ij2  --headless --console --run macros-cs/cs-01.ijm```
+
+**MacOSX**
+
+```./Fiji.app/Contents/MacOS/ImageJ-macosx  --ij2  --headless --console --run /tmp/macros-cs/cs-01.ijm```
+
+**Linux**
+
+```./ImageJ-macosx  --ij2  --headless --console --run /tmp/macros-cs/cs-01.ijm```
+
+# Example image
+
+()[]
+
