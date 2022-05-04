@@ -59,7 +59,7 @@ Executing this Macro from Command line:
 
 From the image:
 
-!(TiffExample)[image-dataset/cells-example01-8bits.tif]
+![JPGExample](image-dataset/cells-example01-8bits-1.jpg)
 
 To the results: 
 
