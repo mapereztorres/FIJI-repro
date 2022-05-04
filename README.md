@@ -55,7 +55,13 @@ Executing this Macro from Command line:
 
 ```./ImageJ-macosx  --ij2  --headless --console --run /tmp/macros-cs/cs-01.ijm```
 
-# Example image
+# Workflow
 
-()[]
+From the image:
+
+!(TiffExample)[image-dataset/cells-example01-8bits.tif]
+
+To the results: 
+
+
 
